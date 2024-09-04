@@ -1,6 +1,5 @@
 # Social-Media-App
 
-https://jira2.cerner.com/browse/DEVACDMY-41009
 
 
 
