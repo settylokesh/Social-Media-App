@@ -1,0 +1,67 @@
+body {
+  background: rgb(2, 0, 36);
+  background: radial-gradient(
+    circle,
+    rgb(237, 236, 244) 0%,
+    rgb(49, 177, 203) 0%,
+    rgba(93, 93, 116, 1) 100%
+  );
+}
+
+.container {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: top;
+  align-items: center;
+  height: 80vh;
+  max-width: 600px;
+  width: 100%;
+  margin: auto;
+  text-align: left;
+  color: #000000;
+  font-style: italic;
+  font-stretch: condensed;
+  font-weight: bold;
+  
+}
+.container > form {
+  width: 70%;
+  border: 3px solid #301d9d;
+  padding: 20px;
+  border-radius: 15px;
+  background: rgb(255, 255, 255);
+}
+
+.container > .profileUI {
+  width: 70%;
+  border: 3px solid #301d9d;
+  padding: 20px;
+  border-radius: 15px;
+  background: rgb(255, 255, 255);
+}
+
+
+
+pre {
+  width: 100%;
+  color: rgb(17, 157, 52);
+  font-size: larger;
+  text-align: center;
+}
+
+button {
+  background: #649fd2 !important;
+}
+
+link{
+  text-align: center;
+}
+
+.error {
+  color: red;
+}
+
+field{
+  font-size:larger;
+  color:blue;
+}
